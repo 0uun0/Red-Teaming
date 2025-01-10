@@ -1,2 +1,2 @@
-# Red-Teaming
-This repository is my place to write writeups about red teaming, and labs, etc.
+# Hasan Alboraee's Red Team Cybersecurity Portfolio
+Offensive Security | Penetration Testing | Ethical Hacking | Red Team Operations
